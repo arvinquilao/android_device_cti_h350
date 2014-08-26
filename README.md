@@ -1,4 +1,4 @@
-android_device_cm_h700
+android_device_cm_h350
 ======================
 
-Initial device tree for Cherry Mobile Omega Icon, used to build TWRP recovery.
+Initial device tree for Cherry Mobile Omega Aeon, used to build TWRP recovery.
